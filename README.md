@@ -1,2 +1,2 @@
-# class-20
-class 20 class summery
+# p5.play-boilerplate
+Boiler plate for p5.play
